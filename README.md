@@ -1,9 +1,8 @@
-![Designer | Learner | Web Design Enthusiast](https://media.licdn.com/dms/image/v2/D4E16AQHCiUjrOcpwxw/profile-displaybackgroundimage-shrink_350_1400/B4EZqiZbT.JgAY-/0/1763661167744?e=1767225600&v=beta&t=uH7pUvzEz6lz_K5HdLwEcnMve-zd288yXheb7tTYpMk)
-
 ### Hi there 👋, MD EMON SHAH
 #### Designer | Learner | Web Design Enthusiast
+![Designer | Learner | Web Design Enthusiast](https://media.licdn.com/dms/image/v2/D4E16AQHCiUjrOcpwxw/profile-displaybackgroundimage-shrink_350_1400/B4EZqiZbT.JgAY-/0/1763661167744?e=1767225600&v=beta&t=uH7pUvzEz6lz_K5HdLwEcnMve-zd288yXheb7tTYpMk)
 
-I’m passionate about design, creativity, and building digital experiences that look clean and feel modern. Currently improving my skills in social media design, branding, and digital content creation, while also exploring web technologies and automation to grow as a creator.
+I’m passionate about design, creativity, and building digital experiences that look clean and feel modern. Currently improving my skills in Web Design Learning at Arodesk Learning Institute, Rajshahi, Bangladesh.
 
 Skills: Html/CSS/JavaScript
 
@@ -11,7 +10,7 @@ Skills: Html/CSS/JavaScript
 - 🌱 I’m currently learning Html 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Design & Creative 
-- 📫 How to reach me: Social Links
+- 📫 How to reach me: Social Links 
 - 😄 Pronouns: Emon 
 - ⚡ Fun fact: Love to Learn 
 
@@ -19,16 +18,4 @@ Skills: Html/CSS/JavaScript
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mdemonshah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mdemonshah//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/esmjoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/EmonShah91406)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@esmjoy.official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://esmstudioo.wixsite.com/esmstudio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/emon9080?public_mode=true)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/mdemonshah)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/mdemonshah)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/mdemonshah&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/mdemonshah/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/mdemonshah)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/mdemonshah)  
 
