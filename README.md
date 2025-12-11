@@ -30,5 +30,4 @@ Skills: Html/CSS/JavaScript
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/mdemonshah)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/mdemonshah)  
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/mdemonshah)
