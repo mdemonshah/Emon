@@ -1,6 +1,7 @@
+![Designer | Learner | Web Design Enthusiast](https://media.licdn.com/dms/image/v2/D4E16AQHCiUjrOcpwxw/profile-displaybackgroundimage-shrink_350_1400/B4EZqiZbT.JgAY-/0/1763661167744?e=1767225600&v=beta&t=uH7pUvzEz6lz_K5HdLwEcnMve-zd288yXheb7tTYpMk)
+
 ### Hi there 👋, MD EMON SHAH
 #### Designer | Learner | Web Design Enthusiast
-![Designer | Learner | Web Design Enthusiast](https://media.licdn.com/dms/image/v2/D4E16AQHCiUjrOcpwxw/profile-displaybackgroundimage-shrink_350_1400/B4EZqiZbT.JgAY-/0/1763661167744?e=1767225600&v=beta&t=uH7pUvzEz6lz_K5HdLwEcnMve-zd288yXheb7tTYpMk)
 
 I’m passionate about design, creativity, and building digital experiences that look clean and feel modern. Currently improving my skills in Web Design Learning at Arodesk Learning Institute, Rajshahi, Bangladesh.
 
